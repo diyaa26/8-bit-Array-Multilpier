@@ -1,1 +1,1 @@
-# fulladder.v
+# 8-bit array multiplier
