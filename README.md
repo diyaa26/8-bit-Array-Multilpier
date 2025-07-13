@@ -15,3 +15,7 @@ Similarly, the 8-bit array multiplication is shown here:
 </p>
 
 In this project, we adopt the structural modeling style in Verilog by creating separate modules for basic components like AND gates, half adders, and full adders. These modules are then instantiated and interconnected in a top-level module to perform bit-by-bit multiplication, effectively constructing an 8-bit array multiplier. This approach offers better clarity, modularity, and hardware-level understanding of the multiplication process.
+
+The simulation results:
+<img width="911" height="259" alt="Capture" src="https://github.com/user-attachments/assets/eb97366b-7865-4432-b2f8-bad764d31d94" />
+
